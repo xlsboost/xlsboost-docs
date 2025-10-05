@@ -2,7 +2,7 @@ XLSBoost Excel Add-in installation instructions for [Microsoft Excel for the Web
 
 # Overview #
 
-1. Download the manifest file into a file in local filesystem.
+1. Download the manifest into a file.
 2. Click **"Home"** > **"Add-ins"** to open the "Add-ins" menu:
   ![Add-ins menu](images/installation_web/add_ins.png)
 3. Click **"More Add-ins"** to open the "Office Add-ins" dialog.
