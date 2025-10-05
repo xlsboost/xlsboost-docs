@@ -1,6 +1,6 @@
 XLSBoost Excel Add-in installation instructions for [Microsoft Excel for the Web](https://excel.cloud.microsoft/):
 
-# Overview #
+# Add-in #
 
 1. Download the manifest into a file.
 2. Click **"Home"** > **"Add-ins"** to open the "Add-ins" menu:
